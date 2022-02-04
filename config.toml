@@ -1,0 +1,16 @@
+baseURL = "https://december2021--launchandgoworkspace.netlify.app/"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+enableRobotsTXT = "true"
+languageCode = "en-us"
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Book a Space"
+url = "https://launchandgoworkspaceptc.spaces.nexudus.com/signup"
+weight = 3
+[[menu.main]]
+name = "Login"
+url = "https://launchandgoworkspaceptc.spaces.nexudus.com/login"
+weight = 4
