@@ -1,4 +1,4 @@
-baseURL = "https://december2021--launchandgoworkspace.netlify.app/"
+baseURL = "http://synergyws.biz/"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableRobotsTXT = "true"
 languageCode = "en-us"
