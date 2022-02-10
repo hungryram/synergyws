@@ -1,4 +1,4 @@
-baseURL = "http://synergyws.biz/"
+baseURL = "https://synergyws.biz/"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableRobotsTXT = "true"
 languageCode = "en-us"
