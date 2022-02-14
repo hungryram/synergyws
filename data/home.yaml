@@ -1,7 +1,7 @@
 ---
 gallery_section:
-  heading: Come Explore Our Workspaces in Norcross and Peachtree City
-  body_text: "[Schedule a tour](/contact)."
+  heading: Schedule a Tour
+  body_text: ""
   gallery:
   - "/uploads/img_0193.jpg"
   - "/uploads/img_0192.jpg"
@@ -88,22 +88,12 @@ bookable_spaces:
   - details: |-
       INCLUDED
 
-      * **4 Microphones and Headsets**
-      * **Mixing Board**
-      * **High Speed 1 Gbps WiFi Internet**
-    heading: Podcast Studio
-    subtitle: "3 pricing options available. \n\n**Not available at Norcross**"
-    price: "$35/hr"
-    link: https://launchandgoworkspaceptc.spaces.nexudus.com/signup
-  - details: |-
-      INCLUDED
-
       * High Speed 1 Gbps WiFi Internet
       * Coffee, Tea, Hot Chocolate and Sparkling Water
     heading: Flex Office
     price: "$50/day"
     link: https://launchandgoworkspaceptc.spaces.nexudus.com/signup
-    subtitle: "Private office available for the day. \n\n**Not available at Norcross**"
+    subtitle: "Private office available for the day. \n\n"
 footer:
   footer_text: "Peachtree staff available Tuesday - Thursday from 10:00am - 3:00pm
     \ \nNorcross staff available Monday - Friday from 9:00am - 5:00pm  \nCall or email
@@ -111,7 +101,7 @@ footer:
 introduction:
   heading: Workspace **Amenities** Designed To Help Your Business Thrive
   body: |-
-    You can choose from desks in the open works areas, private offices, a meeting room, or the podcast studio. Launch and Go has flexible, comfortable, and inspiring spaces ready whenever you are.
+    You can choose from desks in the open works areas, private offices, or a meeting room. Launch and Go has flexible, comfortable, and inspiring spaces ready whenever you are.
 
     \*Only available at the Peachtree City location
   image: "/uploads/img_0191.jpg"
