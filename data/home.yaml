@@ -95,9 +95,7 @@ bookable_spaces:
     link: https://launchandgoworkspaceptc.spaces.nexudus.com/signup
     subtitle: "Private office available for the day. \n\n"
 footer:
-  footer_text: "Peachtree staff available Tuesday - Thursday from 10:00am - 3:00pm
-    \ \nNorcross staff available Monday - Friday from 9:00am - 5:00pm  \nCall or email
-    to schedule an office tour. Members receive 24/7 building access"
+  footer_text:
 introduction:
   heading: Workspace **Amenities** Designed To Help Your Business Thrive
   body: |-

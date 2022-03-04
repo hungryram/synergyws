@@ -35,9 +35,9 @@
                   {{ end }}
                   {{ if $footerContact.street_address }}<p><a href="https://g.page/Launch-and-Go?share" target="_blank">{{ $footerContact.street_address }}, {{ $footerContact.city }}, {{ $footerContact.state }} {{ $footerContact.zip_code }}</a></p>{{ end }}
                   <p><a href="https://g.page/Launch-and-Go?share" target="_blank"></a></p>
-                  {{ if $footerContact.phone }}<a href="tel:{{ $footerContact.phone }}">Phone: {{ $footerContact.phone }}</a>{{ end }}<br>
-                  {{ if $footerContact.email }}<a href="mailto:{{ $footerContact.email }}">Email: {{ $footerContact.email }}</a>{{ end }}
-                  {{ if .Site.Data.home.footer.footer_text }}<p>{{ .Site.Data.home.footer.footer_text | markdownify }}</p>{{ end }}
+                  {{ if $footerContact.phone }}<a href="tel:{{ $footerContact.phone }}">Phone: {{ $footerContact.phone }}</a>{{ end }}<br><br>
+                  {{ if $footerContact.email }}<a href="mailto:{{ $footerContact.email }}">Email: {{ $footerContact.email }}</a>{{ end }}<br>
+                  {{ if .Site.Data.home.footer.footer_text }}<p>{{ .Site.Data.home.footer.footer_text | markdownify }}</p>{{ end }}<br>
                   <div class="accent uk-light">
                     {{ if $footerSocial.facebook }}<a href="{{ $footerSocial.facebook }}" class="uk-margin-small-right" uk-icon="icon: facebook; ratio: 1"></a>{{ end }}
                     {{ if $footerSocial.instagram }}<a href="{{ $footerSocial.instagram }}" class="uk-margin-small-right" uk-icon="icon: instagram; ratio: 1"></a>{{ end }}
