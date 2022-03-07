@@ -1,6 +1,6 @@
 {{ $footerSocial := .Site.Data.profile.social_accounts }}
 {{ $footerContact := .Site.Data.profile.primary_contact }}
-<footer class="footer">
+<footer class="footer" id="contactform">
   <div class="uk-section">
       <div class="uk-container uk-container-large">
           <div class="uk-grid-large" uk-grid>
@@ -33,7 +33,7 @@
                   {{ if .Site.Data.appearance.branding.logo }}
                   <img src="{{ .Site.Data.appearance.branding.logo }}" alt="{{ .Site.Data.profile.company_name }}" width="150">
                   {{ end }}
-                  {{ if $footerContact.street_address }}<p><a href="https://g.page/Launch-and-Go?share" target="_blank">{{ $footerContact.street_address }}, {{ $footerContact.city }}, {{ $footerContact.state }} {{ $footerContact.zip_code }}</a></p>{{ end }}
+                  {{ if $footerContact.street_address }}<p><a href="https://www.google.com/maps/place/7094+Peachtree+Industrial+Blvd+%23201,+Norcross,+GA+30071/@33.9309105,-84.2622838,17z/data=!3m1!4b1!4m5!3m4!1s0x88f5a0acd5000001:0xfde4fd506ae9756a!8m2!3d33.9309105!4d-84.2622838" target="_blank">{{ $footerContact.street_address }}, {{ $footerContact.city }}, {{ $footerContact.state }} {{ $footerContact.zip_code }}</a></p>{{ end }}
                   <p><a href="https://g.page/Launch-and-Go?share" target="_blank"></a></p>
                   {{ if $footerContact.phone }}<a href="tel:{{ $footerContact.phone }}">Phone: {{ $footerContact.phone }}</a>{{ end }}<br><br>
                   {{ if $footerContact.email }}<a href="mailto:{{ $footerContact.email }}">Email: {{ $footerContact.email }}</a>{{ end }}<br>
