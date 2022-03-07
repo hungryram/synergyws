@@ -26,7 +26,7 @@ membership_options:
       * **Mail & Package Service**
       * **4 Meeting room hours/mo**
     price: "$175/mo"
-    link: https://launchandgoworkspaceptc.spaces.nexudus.com/signup
+    link: https://synergyworkspace.app.proximity.space/account/memberships/change
     subtitle: |-
       Use any available desk in the common area
 
@@ -43,7 +43,7 @@ membership_options:
       * **Mail & Package Service** Use as your official business address
       * **4 Meeting room hours/mo**
     price: "$225/mo"
-    link: https://launchandgoworkspaceptc.spaces.nexudus.com/signup
+    link: https://synergyworkspace.app.proximity.space/account/memberships/change
   - heading: Private Offices
     details: |-
       INCLUDED
@@ -52,7 +52,7 @@ membership_options:
       * **Mail & Package Service** Use as your official business address
       * **4 Meeting room hours/mo**
     price: "$350-$900/mo"
-    link: https://launchandgoworkspaceptc.spaces.nexudus.com/signup
+    link: https://synergyworkspace.app.proximity.space/account/memberships/change
     subtitle: |-
       A furnished, lockable office space for 1-4 people
 
@@ -67,8 +67,8 @@ membership_options:
 
       * **Day Pass 5-Pack for $75**
     price: "$20/day"
-    link: https://launchandgoworkspaceptc.spaces.nexudus.com/signup
-  button_link: https://launchandgoworkspaceptc.spaces.nexudus.com/signup
+    link: https://synergyworkspace.app.proximity.space/account/memberships/change
+  button_link: https://synergyworkspace.app.proximity.space/account/memberships/change
   button_text: View All Options
 bookable_spaces:
   heading: Our Bookable Spaces
@@ -77,7 +77,7 @@ bookable_spaces:
   - heading: Meeting Room
     subtitle: Perfect for meeting clients
     price: "$35/hr"
-    link: https://members.launchandgoworkspace.com/calendar
+    link: https://synergyworkspace.app.proximity.space/account/memberships/change
     details: |-
       INCLUDED
 
@@ -92,7 +92,7 @@ bookable_spaces:
       * Coffee, Tea, Hot Chocolate and Sparkling Water
     heading: Flex Office
     price: "$50/day"
-    link: https://launchandgoworkspaceptc.spaces.nexudus.com/signup
+    link: https://synergyworkspace.app.proximity.space/account/memberships/change
     subtitle: "Private office available for the day. \n\n"
 footer:
   footer_text:
@@ -124,7 +124,7 @@ banner:
   heading: A la Carte and Memberships Available
   body: Book a room or grab a Day Pass without a membership. If you'd like to become
     a member, see which option works for you.
-  button_link: https://launchandgoworkspaceptc.spaces.nexudus.com/signup
+  button_link: https://synergyworkspace.app.proximity.space/account/memberships/change
   button_label: Book Now
 hero:
   image: "/uploads/office3.jpg"
@@ -132,7 +132,7 @@ hero:
   heading: The Premier Coworking Space
   body: We offer professional work spaces to fit your budget, availability & productivity
     needs.
-  button_link: https://launchandgoworkspaceptc.spaces.nexudus.com/signup
+  button_link: https://synergyworkspace.app.proximity.space/account/memberships/change
   button_label: Book Now
   hero_footer:
     first_column:
@@ -145,5 +145,5 @@ hero:
       heading: Desk Workspaces
       body: Grab an available “hot desk” or opt for a dedicated space.
       small_text: Available options daily or monthly.
-      link: https://launchandgoworkspace.com/#membership
+      link: https://synergyworkspace.app.proximity.space/account/memberships/change
       link_text: Memberships

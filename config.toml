@@ -8,9 +8,9 @@ url = "/"
 weight = 1
 [[menu.main]]
 name = "Book a Space"
-url = "https://launchandgoworkspaceptc.spaces.nexudus.com/signup"
+url = "https://synergyworkspace.app.proximity.space/account/memberships/change"
 weight = 3
 [[menu.main]]
 name = "Login"
-url = "https://launchandgoworkspaceptc.spaces.nexudus.com/login"
+url = "https://synergyworkspace.app.proximity.space/account/memberships/change"
 weight = 4
