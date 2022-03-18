@@ -1,7 +1,7 @@
 ---
 branding:
-  logo: "/uploads/synergyws-logo.png"
+  logo: "https://res.cloudinary.com/hungryram19/image/upload/v1639462982/darrin-flanagan/launch-and-go-workspace/launchandgoworkspace.png"
   site_title: Synergy Workspace
-  favicon: "/uploads/favicon-synergy.JPG"
+  favicon: "https://res.cloudinary.com/hungryram19/image/upload/v1639462987/darrin-flanagan/launch-and-go-workspace/favicon_512.png"
 page_design:
   banner: "/uploads/img_0194.jpg"
